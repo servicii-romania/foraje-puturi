@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Foraje Puturi</title>
-    <link>https://foraje-puturi.recomand.com/categories/</link>
+    <link>https://foraje-puturi.recomand.app/categories/</link>
     <description>Recent content in Categories on Foraje Puturi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ro-ro</language><atom:link href="https://foraje-puturi.recomand.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ro-ro</language><atom:link href="https://foraje-puturi.recomand.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
