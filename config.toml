@@ -1,0 +1,4 @@
+baseURL = 'https://foraje-puturi.recomand.com/'
+languageCode = 'ro-ro'
+title = 'Foraje Puturi'
+theme = 'ananke'
